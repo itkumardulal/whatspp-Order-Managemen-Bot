@@ -1,0 +1,8 @@
+{
+  "name": " Order Managemnt WhatsApp Bot Simulator",
+  "description": "A WhatsApp chatbot simulator for sindhulibazar.com that handles text-based orders, payment confirmation, and internal order forwarding.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
